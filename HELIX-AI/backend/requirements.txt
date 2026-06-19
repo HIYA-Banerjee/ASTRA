@@ -1,0 +1,23 @@
+# ──────────────────────────────────────────────
+# HELIX AI — Backend Dependencies
+# ──────────────────────────────────────────────
+# Phase 0: Minimal skeleton dependencies only
+# ──────────────────────────────────────────────
+
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.1
+pydantic-settings==2.5.2
+python-dotenv==1.0.1
+python-multipart==0.0.9
+
+# ── Future Phase Dependencies (reserved) ──
+# chromadb
+# neo4j
+# langchain
+# langchain-community
+# langgraph
+# transformers
+# torch
+# sentence-transformers
+# openai
